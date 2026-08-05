@@ -1,8 +1,11 @@
 ### 👋 Hi, I'm Sumner
 
-Working with partners to make our customers' champions look like heroes, and helping make GitHub an awesome place to build from.
+I work with partners to make them look good.
 
-I'm in Services Sales at GitHub, covering AMER SMB, APAC SMB/MM, and Digital Sales globally. I scope, sell, and close GitHub Professional Services engagements across direct and partner-sourced deals, keeping work moving and customers on a clear path to value.
+I focus on GitHub Professional Services, helping partners scope and land the strategic, complex engagements that get customers real value. Hands-on and cross-functional across GitHub, our partners, and their customers.
+
+#### Where I work
+Across AMER SMB, APAC SMB/MM, and Digital Sales globally.
 
 #### Building on the side
 - **[Skill008](https://skill008.com)**: writes the one-page training note that teaches your AI assistant how you work, turning a generically smart model into one that is actually helpful.
